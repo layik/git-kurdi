@@ -19,4 +19,6 @@
 
 ئیتر ئەکرێ بۆخۆی بەربگرێ و باڵا بکات.
 </div>
-<img width="879" alt="Screenshot 2019-07-04 at 22 15 15" src="https://user-images.githubusercontent.com/408568/60687890-7d475800-9ea9-11e9-85c8-5e0ba2f71e8c.png">
+<img width="879" alt="Screenshot 2019-07-04 at 22 15 15" style="border: 1px solid #ddd;
+border-radius: 4px;padding: 5px;
+width: 100%;" src="https://user-images.githubusercontent.com/408568/60687890-7d475800-9ea9-11e9-85c8-5e0ba2f71e8c.png">
