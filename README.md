@@ -147,13 +147,17 @@
 
 ١. ئه‌م تاگه‌ به‌كاربهێنه‌ له‌سه‌ره‌وه‌ی فایله‌كه‌:
 
-![html-rtl-tag](/Users/rawandsaeed/Desktop/Developer/ContributeOpenSource/Kurdish_Git_Learn/git-kurdi/screenshots/html-rtl-tag.png)
+![](https://github.com/layik/git-kurdi/blob/master/screenshots/html-rtl-tag.png)
+
+
 
 ٢. به‌م تاگه‌ كاتێك كه‌ فایلی ماركداونه‌كه‌ ئه‌پلۆد ده‌كه‌یت بۆ گیت هه‌ب ئه‌وا فایله‌كه‌ له‌ ڕاسی بۆ چه‌پ ده‌بێت
 
 كێشه‌ی ئه‌م ڕێگه‌یه‌ ئه‌وه‌یه‌ كه‌ ئه‌و كۆدانه‌ی كه‌ له‌ناو فایلی ماركداونه‌كه‌ نووسیوتن ده‌چنه‌ لای چه‌پ مانای ئه‌وه‌یه‌ كۆده‌كان كه‌ به‌ زمانی ئینگلیزیه‌ ده‌چنه‌ لای ڕاست كه‌ ئه‌مه‌ش خوێندنه‌وی زۆر ناخۆش ده‌كات: وه‌ك ئه‌م نموونه‌یه‌ی لای خواره‌وه‌:  
 
-![codeblock-rtl-example](/Users/rawandsaeed/Desktop/Developer/ContributeOpenSource/Kurdish_Git_Learn/git-kurdi/screenshots/codeblock-rtl-example.png)
+
+
+![img1](https://github.com/layik/git-kurdi/blob/master/screenshots/codeblock-html-rtl-tag.png)
 
 
 
