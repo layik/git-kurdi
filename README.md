@@ -157,7 +157,9 @@
 
 ![img3](https://github.com/layik/git-kurdi/blob/master/screenshots/codeblock-html-rtl-tag.png)
 
-به‌م ڕێگایه‌ كۆده‌كان وه‌ك خۆیان ده‌بن له‌ چه‌په‌وه‌ بۆ ڕاست.
+به‌م ڕێگایه‌ كۆده‌كان وه‌ك خۆیان ده‌بن له‌ چه‌په‌وه‌ بۆ ڕاست. وه‌ك ئه‌م نموونه‌یه‌ی خواره‌وه‌. 
+
+![img4](https://github.com/layik/git-kurdi/blob/master/screenshots/codeblock-github-rtl-example.png)
 
 ***گه‌ر ڕێگایه‌كی تر هه‌بێت تكایه‌ ئاگادارمان بكه‌نه‌وه‌ خۆشحال ده‌بین بۆ ئه‌وه‌ی بزانین.***
 
