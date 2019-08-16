@@ -1,3 +1,5 @@
+<div dir=rtl>
+
 # Git-kurdi
 
 ------
